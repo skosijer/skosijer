@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Stevan</h1>
-<h3 align="left">A passionate software engineer from Serbia</h3>
+<h3 align="left">A passionate software engineer from Serbia, Novi Sad</h3>
 
-- 🔭 I’m currently working on [Liblab](https://liblab.com/)
+- I’m currently working on [Liblab](https://liblab.com/)
 
-- 📫 How to reach me **stevan.kosijer@aspect.is**
+- How to reach me **stevan.kosijer@aspect.is**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
