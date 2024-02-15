@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Stevan</h1>
-<h3 align="center">A passionate software engineer from Serbia</h3>
+<h1 align="left">Hi 👋, I'm Stevan</h1>
+<h3 align="left">A passionate software engineer from Serbia</h3>
 
 - 🔭 I’m currently working on [Liblab](https://liblab.com/)
 
