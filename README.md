@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Stevan</h1>
-<p>I'm someone who's dedicated, enthusiastic, and skilled. I have experience with various technologies and enjoy blending creativity with established solutions and patterns.</p>
+<p>I'm dedicated, enthusiastic, and skilled in software engineering. I have experience with various technologies and enjoy blending creativity with established solutions and patterns.</p>
 
 <p>I’m currently working on <a href="https://liblab.com">liblab</a>.</p>
 
