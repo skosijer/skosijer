@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Stevan</h1>
-<p>I build AI products. Learn more at <a href="https://www.aspect.is">Aspect</a>.</p>
+<p>I love building software products. Right now I'm working on a few AI products with my team. </p>
+<p>Learn more at <a href="https://www.aspect.is" target="_blank" rel="noopener noreferrer">Aspect</a>.</p>
 
 <h4>Connect with me</h4>
 <p>
