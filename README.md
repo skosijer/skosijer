@@ -1,7 +1,7 @@
 <h2>Hey, I’m Stevan 👋</h2>
 
 <ul>
-  <li>Senior software engineer with 10+ years of experience building products end-to-end</li>
+  <li>Senior software engineer with 10+ years of experience building products end-to-end.</li>
   <li>Built the SDK &amp; docs generator at <a href="https://liblab.com" target="_blank">Liblab</a>, which was acquired by <a href="https://www.postman.com" target="_blank">Postman</a>.</li>
   <li>Currently building AI agents at <a href="https://www.postman.com" target="_blank">Postman</a>, including autonomous incident response and org-wide code intelligence, on infrastructure serving ~2M daily users.</li>
   <li>Co-founded a software services company <a href="https://www.aspect.is" target="_blank">Aspect</a> and have led teams as both a founder and team lead.</li>
